@@ -1,10 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
+N:;VIVEE Real Estate;;;
 FN:VIVEE Real Estate
 ORG:VIVEE Real Estate
 TEL;TYPE=WORK,VOICE:+34966730129
-TEL;TYPE=CELL:+34621253288
+TEL;TYPE=CELL:+34613580255
 EMAIL;TYPE=WORK:info@viveesp.com
 URL:https://viveesp.com
-ADR;TYPE=WORK:;;Calle Salvador Dali 13, C.C. Via Park II, Local 15;Orihuela Costa;;;Spain
+ADR;TYPE=WORK:;;Calle Salvador Dali 13\, C.C. Via Park II\, Local 15;Orihuela Costa;Alicante;;Spain
 END:VCARD
